@@ -1,4 +1,4 @@
-# NoSqlDBSolution
+# No Sql DB Solution
 
 I built this project to demonstrate how MongoDB works from all aspects in terms of connecting with the database and manipulating with data.
 
